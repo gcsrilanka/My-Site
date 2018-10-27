@@ -39,18 +39,14 @@
                         </div>
                         <div class="col-md-7">
                             <div class="row person_details">
-                                <h3>Hi I'm <span>Add Your name</span></h3>
-                                <h4>Add your area of expertise</h4>
-                                <p>Add Your Bio including university and year of study etc.</p>
+                                <h3>Hi I'm <span>Shameera</span></h3>
+                                
+                                <p>im an undergraduate of nsbm.</p>
                                 <div class="person_information">
                                     <ul>
-                                        <li><a href="#">Age</a></li>
-                                        <li><a href="#">Nationality</a></li>
-                                        <li><a href="#">Address</a></li>
-                                        <li><a href="#">Land Phone</a></li>
-                                        <li><a href="#">Mobile</a></li>
-                                        <li><a href="#">Email</a></li>
-                                        <li><a href="#">Website</a></li>
+                                        <li><a href="#">Age:18</a></li>
+                                        <li><a href="#">Nationality: sri lankan</a></li>
+                                        
                                     </ul>
                                     <ul>
                                         <li><a href="#">Add age</a></li>
