@@ -1,0 +1,4 @@
+{% extends "personal/header.html" %}
+{% block content %}
+<p>hohohohohhuhuhuhu hohoho</p>
+{% endblock %}
