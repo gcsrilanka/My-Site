@@ -1,22 +1,68 @@
-<html>
-<head>
-    <title>Contact Form</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body>
-    <div class="contact-title">
-       <h1>Say Hello</h1> 
-       <h2>We are always ready to serve you.....</h2>
-    </div>
-    <div class="contact-form">
-        <form id="contact-form" method="post" action="contact-form-handler ">
-            <input name="name" type="text" class="form-control" placeholder="your name" required>
-            <br>
-            <input name="email" type="email" class="form-control" placeholder="your email" required>
-            <br>
-            <textarea name="Message" class="form-control" placeholder="Message" row="4" required></textarea><br>
-            <input type="submit" class="form-control submit" value="SEND MESSAGE">
-        </form>
-    </div>
-</body>
-</html>
+ody
+{
+margin:0;
+padding:0;
+text-align:center;
+background: linear-gradient(rgba(0,0,50,0.5)rgba(0,0,50,0.5))url(pocket 123.PNG); 
+background-size:cover;
+background-position: center;
+font-family: sans-serif;
+}
+
+.contact-title
+{
+    margin-top:100px;
+    color:darkgray;
+    text-transform:uppercase;
+    transition: all 4s ease-in-out;
+}
+
+.contact-title h1
+{
+    font-size: 32px;
+    line-height:10px; 
+}
+
+.contact-tital h2{
+    font-size: 16px; 
+}
+
+form
+{
+    margin-top:50px;
+    transition: all 4s ease-in-out;   
+}
+
+.form-control
+{
+    width:600px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color: darkgray;
+    font-size:18px;
+    margin-bottom:16px; 
+}
+
+input
+{
+    height: 45px;
+}
+
+form .submit{
+    background: #ff5722;
+    border-color: transparent;
+    color: #fff;
+    font-size:20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+    margin-top:20px; 
+}
+
+form.submit:hover
+{
+    background-color: #f44336;
+    cursor: pointer;
+}
