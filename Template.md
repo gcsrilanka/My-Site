@@ -2,13 +2,13 @@
 
 ## `index.html`
 
-:point_right: Add Your name
+:point_right: Rajitha Disanayaka
 
-:point_right: Add your bio
+:point_right: i'm a ui/ux engineer
 
-:point_right: Add your social media link
+:point_right: instagram/rajitha.b.disanayaka
 
-:point_right: If have add your CV
+:point_right: www.rajithad.me
             
 ## `image`
 
