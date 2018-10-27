@@ -7,6 +7,6 @@ Put your first website here
 
 :two: Copy the `template` folder into the created folder and rename it with your name.
 
-:three: Refer to the [Template.md](template.md) and change the content as requested.
+:three: Refer to the [Template.md](Template.md) and change the content as requested.
 
 :four: Make a pull request with the changes made
