@@ -2,13 +2,12 @@
 
 ## `index.html`
 
-:point_right: Add Your name
+:point_right: Manesh
+:point_right: A   Computing Student of NSBM Green University.
 
-:point_right: Add your bio. You can delete any field if you don't like adding any specific personal detail such as phone numbers etc.
+:point_right: 
 
-:point_right: Add your social media link
-
-:point_right: If have add your CV
+:point_right: 
             
 ## `image`
 
