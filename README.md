@@ -5,9 +5,8 @@ Put your first website here
 
 :one: Create a folder with your name inside the `My-Site` folder.
 
-:two: Create a new file with the following format.
-> <YourName.md>
+:two: Copy the `template` folder into the created folder and rename it with your name.
 
-:three: Fill in the created markdown file with your details following the `Template.md`
+:three: Refer to the [Template.md](Template.md) and change the content as requested.
 
 :four: Make a pull request with the changes made
