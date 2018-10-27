@@ -3,10 +3,34 @@ Put your first website here
 
 ## Steps to follow
 
-:one: Create a folder with your name inside the `My-Site` folder.
+### FIRST
 
-:two: Copy the content from `Template` folder into the created folder.
+:one: Fork the repository to your account.
 
-:three: Refer to the [Template.md](Template.md) and change the content as requested.
+:two: Create three new branches with the name `gh-pages`, `contrib` and `source-code`.
 
-:four: Make a pull request with the changes made
+:three: Check out to `gh-pages` branch to do the following.
+
+:four: Refer to the [Template.md](Template.md) and change the content as requested.
+
+:five: Create a GitHub page using the `gh-pages` branch.
+
+:six: Check that the site has been published and view it from the browser.
+
+:seven: Make a pull request with the changes made.
+
+### SECOND
+
+:one: Check out to `source-code` branch.
+
+:two: Create a new folder under your name inside the `My-Site` folder and paste the source code into that folder.
+
+:three: Make another pull request with the `source-code` branch.
+
+### THIRD
+
+:one: Check out to `contrib` branch.
+
+:two: Update the [Completers.md](Completers.md) file with your name and link to the web site.
+
+:three: Make another pull request with the `contrib` branch.
