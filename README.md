@@ -7,7 +7,7 @@ Put your first website here
 
 :one: Fork the repository to your account.
 
-:two: Create three new branches with the name `gh-pages`, `contrib`, `feedback` and `source-code`.
+:two: Create four new branches with the name `gh-pages`, `contrib`, `feedback` and `source-code`.
 
 :three: Check out to `gh-pages` branch to do the following.
 
