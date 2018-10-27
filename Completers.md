@@ -1,5 +1,5 @@
 # We have completed the task! :raised_hands:
 
-- [Tharinda ABeysena](https://ab3y4.github.io/My-Site/#)
+- [Tharinda Abeysena](https://ab3y4.github.io/My-Site/#)
 
 ---------------------------------------------------------------------------
