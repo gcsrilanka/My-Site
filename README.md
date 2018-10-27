@@ -39,6 +39,6 @@ Put your first website here
 
 :one: Check out to `feedback` branch.
 
-:two: Inside Feedback folder, create a new markdown file with the name `YourGitHubHandle.md` with content copied from [MyFeedBack.md](Feedback/MyFeedBack.md)
+:two: Inside Feedback folder, create a new file with the name `YourGitHubHandle.md` content copied from [MyFeedBack.md](Feedback/MyFeedBack.md)
 
 :three: Add your feedback and make another pull request.
