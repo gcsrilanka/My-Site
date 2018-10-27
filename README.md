@@ -5,7 +5,7 @@ Put your first website here
 
 :one: Create a folder with your name inside the `My-Site` folder.
 
-:two: Copy the `Template` folder into the created folder and rename it with your name.
+:two: Copy the content from `Template` folder into the created folder.
 
 :three: Refer to the [Template.md](Template.md) and change the content as requested.
 
