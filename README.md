@@ -7,7 +7,7 @@ Put your first website here
 
 :one: Fork the repository to your account.
 
-:two: Create three new branches with the name `gh-pages`, `contrib` and `source-code`.
+:two: Create three new branches with the name `gh-pages`, `contrib`, `feedback` and `source-code`.
 
 :three: Check out to `gh-pages` branch to do the following.
 
@@ -34,3 +34,11 @@ Put your first website here
 :two: Update the [Completers.md](Completers.md) file with your name and link to the web site.
 
 :three: Make another pull request with the `contrib` branch.
+
+### FOURTH
+
+:one: Check out to `feedback` branch.
+
+:two: Inside Feedback folder, create a new markdown file with the name `YourGitHubHandle.md` with content copied from [MyFeedBack.md](Feedback/MyFeedBack.md)
+
+:three: Add your feedback and make another pull request.
