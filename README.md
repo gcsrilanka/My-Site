@@ -1,7 +1,7 @@
 # My-Site
 Put your first website here
 
-## Steps to follow
+## STEPS:
 
 ### FIRST
 
