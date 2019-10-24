@@ -44,7 +44,7 @@ ul {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: blue;
 }
 
 a:hover, a:focus {
