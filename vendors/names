@@ -1,0 +1,10 @@
+Image result for css vendors
+The CSS browser prefixes that you can use (each of which is specific to a different browser) are:
+
+    Android: -webkit-
+    Chrome: -webkit-
+    Firefox: -moz-
+    Internet Explorer: -ms-
+    iOS: -webkit-
+    Opera: -o-
+    Safari: -webkit-
