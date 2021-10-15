@@ -1,0 +1,6 @@
+.element {
+/* background-repeat: horizontal vertical */
+   background-repeat: repeat space;
+   background-repeat: repeat repeat;
+   background-repeat: round space;
+}
